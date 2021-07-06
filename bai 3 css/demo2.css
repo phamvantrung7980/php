@@ -1,0 +1,18 @@
+#div1{
+	width:200px;
+    height:500px;
+     background-color:#F90;
+     position:absolute;
+     left:100px;
+     top:100px;
+     z-index:5;
+}
+#div2{
+	width:200px;
+    height:500px;
+     background-color:#43B5D0;
+     position:absolute;
+     left:200px;
+     top:150px;
+     z-index:6;
+}
